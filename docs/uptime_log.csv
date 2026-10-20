@@ -443,3 +443,7 @@ timestamp,name,url,status_code,latency_ms,ok,error,latency_level
 2026-10-20T01:26:15.411Z,Example.com,https://example.com,200,110.71,True,,ok
 2026-10-20T01:26:15.445Z,GitHub API,https://api.github.com,200,145.18,True,,ok
 2026-10-20T01:26:15.476Z,HTTPBin health,https://httpbin.org/status/200,200,174.73,True,,ok
+2026-10-20T06:14:51.321Z,Example.com,https://example.com,200,59.18,True,,ok
+2026-10-20T06:14:51.356Z,GitHub API,https://api.github.com,403,94.1,False,unexpected status 403 (expected [200]),n/a
+2026-10-20T06:14:51.380Z,Python.org,https://www.python.org,200,116.78,True,,ok
+2026-10-20T06:14:51.447Z,HTTPBin health,https://httpbin.org/status/200,200,184.29,True,,ok

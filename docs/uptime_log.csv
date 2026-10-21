@@ -483,3 +483,7 @@ timestamp,name,url,status_code,latency_ms,ok,error,latency_level
 2026-10-21T19:23:28.001Z,GitHub API,https://api.github.com,200,110.21,True,,ok
 2026-10-21T19:23:28.012Z,Example.com,https://example.com,200,121.89,True,,ok
 2026-10-21T19:23:28.076Z,HTTPBin health,https://httpbin.org/status/200,200,185.08,True,,ok
+2026-10-21T22:29:39.060Z,Example.com,https://example.com,200,55.4,True,,ok
+2026-10-21T22:29:39.093Z,GitHub API,https://api.github.com,200,89.08,True,,ok
+2026-10-21T22:29:39.210Z,Python.org,https://www.python.org,200,202.49,True,,ok
+2026-10-21T22:29:39.297Z,HTTPBin health,https://httpbin.org/status/200,200,291.65,True,,ok

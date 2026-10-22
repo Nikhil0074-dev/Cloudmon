@@ -503,3 +503,7 @@ timestamp,name,url,status_code,latency_ms,ok,error,latency_level
 2026-10-22T15:26:12.105Z,HTTPBin health,https://httpbin.org/status/200,200,70.8,True,,ok
 2026-10-22T15:26:12.122Z,Python.org,https://www.python.org,200,85.71,True,,ok
 2026-10-22T15:26:12.133Z,Example.com,https://example.com,200,100.78,True,,ok
+2026-10-22T19:19:40.408Z,Example.com,https://example.com,200,73.58,True,,ok
+2026-10-22T19:19:40.443Z,Python.org,https://www.python.org,200,105.41,True,,ok
+2026-10-22T19:19:40.470Z,GitHub API,https://api.github.com,200,136.4,True,,ok
+2026-10-22T19:19:40.534Z,HTTPBin health,https://httpbin.org/status/200,200,198.11,True,,ok

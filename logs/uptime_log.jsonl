@@ -494,3 +494,7 @@
 {"timestamp":"2026-10-22T05:28:32.456Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":76.34,"ok":true,"error":null,"latency_level":"ok"}
 {"timestamp":"2026-10-22T05:28:32.492Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":111.68,"ok":true,"error":null,"latency_level":"ok"}
 {"timestamp":"2026-10-22T05:28:32.463Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":81.31,"ok":true,"error":null,"latency_level":"ok"}
+{"timestamp":"2026-10-22T10:26:12.836Z","name":"GitHub API","url":"https://api.github.com","status_code":200,"latency_ms":173.89,"ok":true,"error":null,"latency_level":"ok"}
+{"timestamp":"2026-10-22T10:26:12.725Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":62.49,"ok":true,"error":null,"latency_level":"ok"}
+{"timestamp":"2026-10-22T10:26:12.922Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":258.51,"ok":true,"error":null,"latency_level":"ok"}
+{"timestamp":"2026-10-22T10:26:12.726Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":60.69,"ok":true,"error":null,"latency_level":"ok"}

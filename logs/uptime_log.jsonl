@@ -530,3 +530,7 @@
 {"timestamp":"2026-10-24T19:43:37.990Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":54.78,"ok":true,"error":null,"latency_level":"ok"}
 {"timestamp":"2026-10-24T19:43:38.074Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":137.78,"ok":true,"error":null,"latency_level":"ok"}
 {"timestamp":"2026-10-24T19:43:38.000Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":61.7,"ok":true,"error":null,"latency_level":"ok"}
+{"timestamp":"2026-10-24T21:54:40.058Z","name":"GitHub API","url":"https://api.github.com","status_code":403,"latency_ms":146.24,"ok":false,"error":"unexpected status 403 (expected [200])","latency_level":"n/a"}
+{"timestamp":"2026-10-24T21:54:40.027Z","name":"Example.com","url":"https://example.com","status_code":200,"latency_ms":114.35,"ok":true,"error":null,"latency_level":"ok"}
+{"timestamp":"2026-10-24T21:54:40.133Z","name":"HTTPBin health","url":"https://httpbin.org/status/200","status_code":200,"latency_ms":219.52,"ok":true,"error":null,"latency_level":"ok"}
+{"timestamp":"2026-10-24T21:54:40.267Z","name":"Python.org","url":"https://www.python.org","status_code":200,"latency_ms":352.29,"ok":true,"error":null,"latency_level":"ok"}

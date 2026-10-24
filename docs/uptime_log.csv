@@ -535,3 +535,7 @@ timestamp,name,url,status_code,latency_ms,ok,error,latency_level
 2026-10-24T21:54:40.058Z,GitHub API,https://api.github.com,403,146.24,False,unexpected status 403 (expected [200]),n/a
 2026-10-24T21:54:40.133Z,HTTPBin health,https://httpbin.org/status/200,200,219.52,True,,ok
 2026-10-24T21:54:40.267Z,Python.org,https://www.python.org,200,352.29,True,,ok
+2026-10-24T23:51:00.143Z,Example.com,https://example.com,200,69.31,True,,ok
+2026-10-24T23:51:00.144Z,Python.org,https://www.python.org,200,69.71,True,,ok
+2026-10-24T23:51:00.171Z,GitHub API,https://api.github.com,200,97.64,True,,ok
+2026-10-24T23:51:00.467Z,HTTPBin health,https://httpbin.org/status/200,200,392.86,True,,ok
